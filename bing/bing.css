@@ -1,0 +1,12 @@
+header{
+  margin: auto;
+  text-align: center;
+}
+div > img{
+  height: 80px;
+  width: 100px;
+  border-radius: 15px;
+}
+div > *{
+  margin-right: 50px;
+}
